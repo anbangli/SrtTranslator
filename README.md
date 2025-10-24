@@ -1,5 +1,5 @@
 # StrTranslator
-本软件是利用 AutoHotkey工具结合免费机翻工具 Translation-Terminator 实现对 SRT 字幕文件进行自动机器翻译的小工具。
+本软件是利用 AutoHotkey工具结合免费机翻工具 Translation-Terminator 实现对** SRT 字幕文件**进行自动机器翻译的小工具。
 要配合 AutoHotkey、Edge（或 Chrome）浏览器以及网络翻译引擎使用。
 
 请在 Realease 中下载压缩包，解压缩到本机。
